@@ -1,0 +1,1 @@
+**Core AWS services to master:** IAM, EC2, S3, RDS, Lambda, API Gateway, CloudWatch.

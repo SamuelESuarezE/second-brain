@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "424363decebdfa08",
+    "type": "split",
+    "children": [
+      {
+        "id": "02a5bc19628ba26a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80cc2b5f4f8056f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14d5e0174a56f8ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbab3214af38850e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23f09264b96754f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "11b713162461a1ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b7510a6b5eb597ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ed164ae6258c86a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c5276d62f392d39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "887f9c6e20fc1a5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "languages/java.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for java"
+            }
+          },
+          {
+            "id": "e25955e3ccb1eb60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "languages/java.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from java"
+            }
+          },
+          {
+            "id": "b5751ab5c6cfc31f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "10b4cef26fbd4c57",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "47482a47e0f690d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "languages/java.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of java"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "23f09264b96754f3",
+  "lastOpenFiles": [
+    "STACK.md",
+    "languages/java.md",
+    "languages/kotlin.md",
+    "languages/python.md",
+    "languages/rust.md",
+    "languages/typescript.md",
+    "cloud/aws.md",
+    "core/design-patterns/example.md",
+    "core/design-patterns",
+    "README.md",
+    "core/clean-architecture.md",
+    "core/mvc.md",
+    "backend/hono.md",
+    "databases/sql.md",
+    "databases/mongodb.md",
+    "desktop/tauri.md",
+    "backend/typescript.md",
+    "backend/rust.md",
+    "backend/kotlin.md",
+    "backend/java.md",
+    "languages",
+    "backend/ktor.md",
+    "frontend/astro.md",
+    "frontend/nuxt.md",
+    "frontend/vue.md",
+    "frontend/typescript.md",
+    "core/atomic-design.md",
+    "core/rest.md",
+    "fundamentals/Untitled",
+    "scripting/rust",
+    "scripting/python",
+    "stack",
+    "architecture",
+    "core",
+    "scripting",
+    "cloud"
+  ]
+}
