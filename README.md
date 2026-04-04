@@ -4,8 +4,6 @@ A personal knowledge management system (PKM) to document, organise and track eve
 
 This repository also serves as public evidence of consistent, intentional learning.
 
----
-
 ## How I write notes
 
 ```markdown
@@ -28,5 +26,7 @@ In which situations this applies.
 ## Resources 
 - link to book chapter, article or video
 ```
+
+---
 
 > Built and maintained by me, Samuel Suarez.

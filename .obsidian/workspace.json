@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "02a5bc19628ba26a",
+        "id": "fceefda32c828491",
         "type": "tabs",
         "children": [
           {
-            "id": "80cc2b5f4f8056f7",
+            "id": "63dd25192b6a106c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -179,8 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "23f09264b96754f3",
+  "active": "63dd25192b6a106c",
   "lastOpenFiles": [
+    "Untitled.base",
+    "README.md",
+    "core/testing.md",
     "STACK.md",
     "languages/java.md",
     "languages/kotlin.md",
@@ -190,7 +197,6 @@
     "cloud/aws.md",
     "core/design-patterns/example.md",
     "core/design-patterns",
-    "README.md",
     "core/clean-architecture.md",
     "core/mvc.md",
     "backend/hono.md",
@@ -207,15 +213,12 @@
     "frontend/nuxt.md",
     "frontend/vue.md",
     "frontend/typescript.md",
-    "core/atomic-design.md",
-    "core/rest.md",
     "fundamentals/Untitled",
     "scripting/rust",
     "scripting/python",
     "stack",
     "architecture",
     "core",
-    "scripting",
-    "cloud"
+    "scripting"
   ]
 }
