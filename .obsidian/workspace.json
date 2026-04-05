@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "424363decebdfa08",
+    "id": "ba5a1ad8bb5ded0b",
     "type": "split",
     "children": [
       {
-        "id": "fceefda32c828491",
+        "id": "feee8bd9d655e5a9",
         "type": "tabs",
         "children": [
           {
-            "id": "63dd25192b6a106c",
+            "id": "35814cc57ba44137",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "languages/rust/Rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Rust"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "14d5e0174a56f8ce",
+    "id": "9ff1733b2b397f57",
     "type": "split",
     "children": [
       {
-        "id": "cbab3214af38850e",
+        "id": "399cedee0e68ca6e",
         "type": "tabs",
         "children": [
           {
-            "id": "23f09264b96754f3",
+            "id": "46a5f0003ae2f933",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "11b713162461a1ee",
+            "id": "55522df6949c9830",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "b7510a6b5eb597ad",
+            "id": "58e9a0f1eb81eda1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "9ed164ae6258c86a",
+    "id": "ea2dd258580df0e4",
     "type": "split",
     "children": [
       {
-        "id": "4c5276d62f392d39",
+        "id": "ffa5b0cba8a44d51",
         "type": "tabs",
         "children": [
           {
-            "id": "887f9c6e20fc1a5a",
+            "id": "164c0487d90386ec",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "languages/java.md",
+                "file": "languages/rust/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for java"
+              "title": "Backlinks for Rust"
             }
           },
           {
-            "id": "e25955e3ccb1eb60",
+            "id": "7dd42c7c8d9ce0a0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "languages/java.md",
+                "file": "languages/rust/Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from java"
+              "title": "Outgoing links from Rust"
             }
           },
           {
-            "id": "b5751ab5c6cfc31f",
+            "id": "4b6fe373e96eb9bf",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "10b4cef26fbd4c57",
+            "id": "bef726a97cb4ef91",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "47482a47e0f690d2",
+            "id": "c3e6b01380c12b75",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "languages/java.md",
+                "file": "languages/rust/Rust.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of java"
+              "title": "Outline of Rust"
             }
           }
         ]
@@ -183,42 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "63dd25192b6a106c",
+  "active": "35814cc57ba44137",
   "lastOpenFiles": [
-    "Untitled.base",
+    "languages/rust/Guessing Game.md",
     "README.md",
-    "core/testing.md",
-    "STACK.md",
-    "languages/java.md",
-    "languages/kotlin.md",
-    "languages/python.md",
-    "languages/rust.md",
-    "languages/typescript.md",
-    "cloud/aws.md",
-    "core/design-patterns/example.md",
-    "core/design-patterns",
-    "core/clean-architecture.md",
-    "core/mvc.md",
-    "backend/hono.md",
-    "databases/sql.md",
-    "databases/mongodb.md",
-    "desktop/tauri.md",
-    "backend/typescript.md",
-    "backend/rust.md",
-    "backend/kotlin.md",
-    "backend/java.md",
-    "languages",
-    "backend/ktor.md",
-    "frontend/astro.md",
-    "frontend/nuxt.md",
-    "frontend/vue.md",
-    "frontend/typescript.md",
-    "fundamentals/Untitled",
-    "scripting/rust",
-    "scripting/python",
-    "stack",
-    "architecture",
-    "core",
-    "scripting"
+    "languages/rust/Rust.md",
+    "languages/rust"
   ]
 }
